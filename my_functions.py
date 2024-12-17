@@ -62,6 +62,7 @@ def boxplot_table_plotly(df, cluster):
         points='all',  # Add individual data points
         hover_data=('region',
                     'chs',
+                    'cobertura_delivery',
                     'uf',
                     'cidade')
     )
