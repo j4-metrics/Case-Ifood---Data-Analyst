@@ -5,15 +5,15 @@ The goal of the respective case, is to built a clustering process to assist a di
 To achieve its objective I found that it's necessary increasy Customer Health Score (CHS) in 19,7%. This goal should be spreaded trhough the cluster depending on the specifical characterisitics of each one. Above we describe the metodology used to spread the increasy within clusters.
 
 *Main Steps of the Analysis*
->> Calculation of the Total Growth Required in CHS
+* Calculation of the Total Growth Required in CHS
 Using the adjusted OLS model, we determined the total growth needed in CHS to achieve the target of a 7% increase in active restaurants:
 
 **Total CHS Growth=19.7%**
 
-> Distribution of Growth by Cluster
+* Distribution of Growth by Cluster
 Initially, the required growth was distributed based only on the current CHS of each cluster. However, this approach may be limited because it does not consider the potential impact of each cluster.
 
-*Incorporation of Population into the Weighting
+* Incorporation of Population into the Weighting
 The population of each cluster was included in the weighting for two main reasons:
 
 Demographic Relevance: Clusters with larger populations have a higher potential impact on the total number of active restaurants.
