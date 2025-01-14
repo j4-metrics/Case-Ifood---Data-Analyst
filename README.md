@@ -14,8 +14,8 @@ Using the adjusted OLS model, we determined the total growth needed in CHS to ac
 Initially, the required growth was distributed based only on the current CHS of each cluster. However, this approach may be limited because it does not consider the potential impact of each cluster.
 
 * Incorporation of Population into the Weighting\
-The population of each cluster was included in the weighting for two main reasons:
-  Demographic Relevance: Clusters with larger populations have a higher potential impact on the total number of active restaurants.
+The population of each cluster was included in the weighting for two main reasons:\
+  Demographic Relevance: Clusters with larger populations have a higher potential impact on the total number of active restaurants.\
   Fair Distribution: Adjusting the required growth proportionally to the population ensures a more balanced and realistic allocation.
 
 * Final Results\
