@@ -27,7 +27,7 @@ The necessary growth in CHS was distributed proportionally to the size of each c
      | **2**       | 24.2                      | 3.4                       | 27.6                       |
      | **3**       | 73.4                      | 5.0                       | 78.4                       |
 
-Justification for Weighting by Population
-Greater Impact Potential: Clusters with larger populations have more "critical mass," meaning growth in CHS in these clusters is likely to have a more significant effect on the total number of active restaurants.
-Strategic Realism: By weighting by population, growth efforts are directed toward areas with higher demographic density, optimizing resources and increasing the likelihood of achieving the target.
+*Justification for Weighting by Population*
+Greater Impact Potential: Clusters with larger populations have more "critical mass," meaning growth in CHS in these clusters is likely to have a more significant effect on the total number of active restaurants.\
+Strategic Realism: By weighting by population, growth efforts are directed toward areas with higher demographic density, optimizing resources and increasing the likelihood of achieving the target.\
 Balanced Distribution: This approach ensures that no cluster is "overestimated" or "underestimated," creating a growth plan proportional to the real potential of each group.
