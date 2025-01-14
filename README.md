@@ -10,7 +10,7 @@ Using the adjusted OLS model, we determined the total growth needed in CHS to ac
 
 **Total CHS Growth=19.7%**
 
-*Distribution of Growth by Cluster
+1- Distribution of Growth by Cluster
 Initially, the required growth was distributed based only on the current CHS of each cluster. However, this approach may be limited because it does not consider the potential impact of each cluster.
 
 *Incorporation of Population into the Weighting
