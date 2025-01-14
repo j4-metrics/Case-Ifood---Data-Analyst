@@ -1,8 +1,7 @@
-**Clustering for digital expansion strategy**
+**Clustering for Digital Expansion Strategy**
+The objective of this analysis is to develop a clustering process to support a digital expansion strategy, focusing on understanding the unique characteristics of each city. This will help achieve a 7% increase in MURE (Monthly Unique Restaurants) by tailoring strategies to the specific needs of different clusters.
 
-The goal of the respective case, is to built a clustering process to assist a digital expansion strategy, focusing in understanding the specifical characteristics of each city, that can help to improve in 7% the MURE (Monthly Unique Restaurants).
-
-To achieve its objective I found that it's necessary increasy Customer Health Score (CHS) in 19,7%. This goal should be spreaded trhough the cluster depending on the specifical characterisitics of each one. Above we describe the metodology used to spread the increasy within clusters.
+To meet this goal, we identified the need to increase the Customer Health Score (CHS) by 19.7%. This growth must be distributed across clusters based on their specific characteristics and potential. Below, we outline the methodology used to allocate this growth effectively among the clusters.
 
 *Main Steps of the Analysis*
 * Calculation of the Total Growth Required in CHS\
@@ -21,11 +20,13 @@ The population of each cluster was included in the weighting for two main reason
 * Final Results\
 The necessary growth in CHS was distributed proportionally to the size of each cluster’s population, resulting in adjusted values that reflect the expected contribution of each group:
 
-Cluster	Required CHS Growth
-0	0.0948 (9.48 percentage points)
-1	0.0364 (3.64 percentage points)
-2	0.0391 (3.91 percentage points)
-3	0.0582 (5.82 percentage points)
+| **Cluster** | **Current CHS (Average)** | **Required Growth (pp)** | **Estimated Final CHS (%)** |
+|-------------|----------------------------|---------------------------|-----------------------------|
+| **0**       | 62.1                      | 8.2                       | 70.3                       |
+| **1**       | 73.2                      | 3.1                       | 76.3                       |
+| **2**       | 24.2                      | 3.4                       | 27.6                       |
+| **3**       | 73.4                      | 5.0                       | 78.4                       |
+
 Justification for Weighting by Population
 Greater Impact Potential: Clusters with larger populations have more "critical mass," meaning growth in CHS in these clusters is likely to have a more significant effect on the total number of active restaurants.
 Strategic Realism: By weighting by population, growth efforts are directed toward areas with higher demographic density, optimizing resources and increasing the likelihood of achieving the target.
