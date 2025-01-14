@@ -15,9 +15,8 @@ Initially, the required growth was distributed based only on the current CHS of 
 
 * Incorporation of Population into the Weighting\
 The population of each cluster was included in the weighting for two main reasons:
-
-Demographic Relevance: Clusters with larger populations have a higher potential impact on the total number of active restaurants.
-Fair Distribution: Adjusting the required growth proportionally to the population ensures a more balanced and realistic allocation.
+  Demographic Relevance: Clusters with larger populations have a higher potential impact on the total number of active restaurants.
+  Fair Distribution: Adjusting the required growth proportionally to the population ensures a more balanced and realistic allocation.
 
 * Final Results\
 The necessary growth in CHS was distributed proportionally to the size of each cluster’s population, resulting in adjusted values that reflect the expected contribution of each group:
