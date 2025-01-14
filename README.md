@@ -20,12 +20,12 @@ The population of each cluster was included in the weighting for two main reason
 * Final Results\
 The necessary growth in CHS was distributed proportionally to the size of each cluster’s population, resulting in adjusted values that reflect the expected contribution of each group:
 
-| **Cluster** | **Current CHS (Average)** | **Required Growth (pp)** | **Estimated Final CHS (%)** |
-|-------------|----------------------------|---------------------------|-----------------------------|
-| **0**       | 62.1                      | 8.2                       | 70.3                       |
-| **1**       | 73.2                      | 3.1                       | 76.3                       |
-| **2**       | 24.2                      | 3.4                       | 27.6                       |
-| **3**       | 73.4                      | 5.0                       | 78.4                       |
+      | **Cluster** | **Current CHS (Average)** | **Required Growth (pp)** | **Estimated Final CHS (%)** |
+      |-------------|----------------------------|---------------------------|-----------------------------|
+      | **0**       | 62.1                      | 8.2                       | 70.3                       |
+      | **1**       | 73.2                      | 3.1                       | 76.3                       |
+      | **2**       | 24.2                      | 3.4                       | 27.6                       |
+      | **3**       | 73.4                      | 5.0                       | 78.4                       |
 
 Justification for Weighting by Population
 Greater Impact Potential: Clusters with larger populations have more "critical mass," meaning growth in CHS in these clusters is likely to have a more significant effect on the total number of active restaurants.
