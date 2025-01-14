@@ -8,7 +8,7 @@ To achieve its objective I found that it's necessary increasy Customer Health Sc
 * Calculation of the Total Growth Required in CHS\
 Using the adjusted OLS model, we determined the total growth needed in CHS to achieve the target of a 7% increase in active restaurants:
 
-  **Total CHS Growth=19.7%**
+       **Total CHS Growth=19.7%**
 
 * Distribution of Growth by Cluster\
 Initially, the required growth was distributed based only on the current CHS of each cluster. However, this approach may be limited because it does not consider the potential impact of each cluster.
